@@ -1,0 +1,14 @@
+# システムユーザー
+dn: ou=People,dc=frosk,dc=co,dc=jp
+objectClass: organizationalUnit
+ou: People
+
+# システムグループ
+dn: ou=Group,dc=frosk,dc=co,dc=jp
+objectClass: organizationalUnit
+ou: Group
+
+# アドレス帳
+dn: ou=Address,dc=frosk,dc=co,dc=jp
+objectClass: organizationalUnit
+ou: Address
